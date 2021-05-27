@@ -12,7 +12,7 @@
 // @grant              GM_addStyle
 // @grant              unsafeWindow
 // @grant              window.close
-// @updateURL          https://github.com/LServo/BIA-SCRIPTS/raw/main/Event%20Horse%20Race%20TW%20Encrypt%20v2.2.js
+// @updateURL          https://github.com/LServo/BIA-SCRIPTS/raw/main/Event_Horse_Race_TW.js
 // @downloadURL        https://raw.githubusercontent.com/LServo/BIA-SCRIPTS/main/Event_Horse_Race_TW.js
 // ==/UserScript==
 
