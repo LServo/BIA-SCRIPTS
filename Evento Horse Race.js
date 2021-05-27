@@ -14,6 +14,6 @@ const _0x2085=['\x35\x31\x32\x37\x34\x38\x6a\x64\x61\x72\x69\x78','\x6f\x70\x65\
 // @grant              GM_addStyle
 // @grant              unsafeWindow
 // @grant              window.close
-// @updateURL          https://raw.githubusercontent.com/LServo/BIA-SCRIPTS/main/Evento%20Horse%20Race.js
+// @updateURL          https://github.com/LServo/BIA-SCRIPTS/raw/main/Evento%20Horse%20Race.js
 // @downloadURL        https://raw.githubusercontent.com/LServo/BIA-SCRIPTS/main/Evento%20Horse%20Race.js
 // ==/UserScript==
