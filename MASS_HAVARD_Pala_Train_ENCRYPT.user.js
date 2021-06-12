@@ -28,7 +28,7 @@ let Nobre = false,                 //Se "true" recruta nobre
     GrupoPadrão = "0",             //Grupo para ser utilizado na cunhagem individual, afim de não atrapalhar outros scripts em demais abas (Exemplo, colocar o ID do grupo de farm)
     GrupoCunhagem_Massa = "69708", //ID do grupo de cunhagem em massa
 
-    Ciclo = 1,                     //Em Minutos | Tempo para transitar entre Pontos de Cunhagem e Academia<->Mercado
+    Ciclo = 7,                     //Em Minutos | Tempo para transitar entre Pontos de Cunhagem e Academia<->Mercado
     ReCaptcha = 5,                 //Em Minutos | Tempo para recarregar a página em caso de proteção contra bots (O Script estará pausado enquanto houver o recaptcha na tela)
     Seguranca = true;              //Ative ou Desative a Variável de Segurança (O Tempo da Variável de Segurança estará setado em 2x do tempo de transição)
 
